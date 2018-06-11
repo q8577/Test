@@ -1,4 +1,2 @@
-# Test
-测试项
-
-new 目
+# Hello
+我的第一个GitHub
